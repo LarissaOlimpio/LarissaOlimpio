@@ -1,5 +1,5 @@
-### Hi, I'm Larissa Olímpio, Júnior FrontEnd Developer👋
-
+### Hi, I'm Larissa Olimpio, Junior FrontEnd Developer👋
+ 🌱 I’m currently learning React and improving my skills in CSS3, HTML5 and Javascript 
 <!--
 **LarissaOlimpio/LarissaOlimpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
