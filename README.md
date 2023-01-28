@@ -1,3 +1,4 @@
+
 ### Hi, I'm Larissa Olimpio, Junior FrontEnd Developer👋
  🌱 I’m currently learning React and improving my skills in CSS3, HTML5 and Javascript 
  <div style="display: inline_block"><br>
@@ -15,10 +16,23 @@
  
 <div> 
   
-  
   <a href="https://www.linkedin.com/in/larissaolimpio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+</br>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/LarissaOlimpio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+</div>
+</br>
+
 
 <!-- ![snake gif](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
 
