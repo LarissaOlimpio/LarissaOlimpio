@@ -20,9 +20,9 @@
   
 </div>
 
-![snake gif](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
 
-<!--
+
 
 
 <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
