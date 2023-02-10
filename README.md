@@ -28,11 +28,11 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/LarissaOlimpio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=outrun"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=react"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=outrun"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=react"/>
 </div>
 </div>
 </br>
