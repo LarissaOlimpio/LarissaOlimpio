@@ -28,14 +28,15 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/LarissaOlimpio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=outrun"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 </div>
 </br>
+![LarissaOlimpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=radical)
 
 <!--![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
 
