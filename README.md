@@ -1,6 +1,6 @@
 
 ### Hi, I'm Larissa Olimpio, FrontEnd Developer👋
- 🌱 I’m currently study systems analysis and development and learning React with TypeScript and improving my skills in CSS3, HTML5 and Javascript 
+ 🌱 I’m currently studying system analysis and development and am learning React with TypeScript and improving my skills in CSS3, HTML5 and Javascript skills.
  <div style="display: inline_block"><br>
   
   
@@ -16,7 +16,7 @@
   
 </div>
 
-  ##
+  ##Connect with me
  
 <div> 
   
@@ -36,7 +36,6 @@
 </div>
 </div>
 </br>
-![LarissaOlimpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=radical)
 
 <!--![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
 
