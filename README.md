@@ -1,6 +1,8 @@
 
-### Hi, I'm Larissa Olimpio, FrontEnd Developer👋
- 🌱 I’m currently study systems analysis and development and learning React with TypeScript and improving my skills in CSS3, HTML5 and Javascript 
+### Hi, I'm Larissa Olimpio, FrontEnd Developer 💻👋
+ 🎓 I study systems analysis and development <br>
+ 🌱 I'm studying React with TypeScript <br>
+ 🎯 I'm improving my skills in CSS3, HTML5 and Javascript<br>
  <div style="display: inline_block"><br>
   
   
