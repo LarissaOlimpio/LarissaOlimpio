@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=header"/>
 
-### Hi, I'm Larissa Olimpio, FrontEnd Developer 💻👋
+### Hi, I'm Larissa Olimpio and my nickname is "Lari", FrontEnd Developer 💻👋
  🎓 I study systems analysis and development <br>
  🌱 I'm studying React with TypeScript <br>
  🎯 I'm improving my skills in CSS3, HTML5 and Javascript<br>
