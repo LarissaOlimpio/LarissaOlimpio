@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=header"/>
 
 ### Hi, I'm Larissa Olimpio, FrontEnd Developer 💻👋
  🎓 I study systems analysis and development <br>
@@ -42,7 +43,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LarissaOlimpio&bg_color=20232a&color=3fd3fc&line=3fb950&point=8676fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=footer"/>
 
 
 <!--
