@@ -38,16 +38,14 @@
 </div>
 </div>
 </br>
-![LarissaOlimpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=radical)
 
-<!--![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
-
- ![snake gif](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LarissaOlimpio&bg_color=20232a&color=3fd3fc&line=3fb950&point=8676fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
 
+<!--
 <img align="center" alt="lari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="right" alt="Lari-gif" height="150" style="border-radius:50px;" src="">
 
