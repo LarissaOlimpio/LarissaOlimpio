@@ -2,7 +2,7 @@
 
 ### Hi, I'm Larissa Olimpio and my nickname is "Lari", FrontEnd Developer 💻👋
  🎓 I study systems analysis and development <br>
- 🌱 Studying React and TypeScript <br>
+ 🌱 Studying React, Next.Js and TypeScript <br>
  📚 Learning Spanish <br>
  🎯 Improving my skills in CSS3, HTML5 and Javascript<br>
  🚀 Alura's student
