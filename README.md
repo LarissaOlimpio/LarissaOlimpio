@@ -27,12 +27,13 @@
   
   <a href="https://www.linkedin.com/in/larissaolimpio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LarissaOlimpio&bg_color=20232a&color=3fd3fc&line=3fb950&point=8676fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
   
 </div>
 
 </br>
-<!--<div align="center">
+<div align="center">
   <div align="center">
   <a href="https://github.com/LarissaOlimpio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=react"/>
@@ -42,7 +43,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=react"/>
 </div>
 </div>
-</br>-->
+</br>
 
 
   ![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
