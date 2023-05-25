@@ -3,8 +3,8 @@
 ### Hi, I'm Larissa Olimpio and my nickname is "Lari", FrontEnd Developer 💻👋
  🎓 I study systems analysis and development <br>
  🌱 Studying React, Next.Js and TypeScript <br>
- 📚 Learning Spanish <br>
- 🎯 Improving my skills in CSS3, HTML5 and Javascript<br>
+ 📚 Learning Spanish and improving English <br>
+ 🎯 My hard skills: CSS3, HTML5 and Javascript<br>
  🚀 Alura's student
  <div style="display: inline_block"><br>
   
@@ -32,18 +32,7 @@
   
 </div>
 
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/LarissaOlimpio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOlimpio&show_icons=true&theme=react"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOlimpio&layout=compact&langs_count=7&theme=react"/>
-</div>
-</div>
-</br>
+
 
 
   ![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
