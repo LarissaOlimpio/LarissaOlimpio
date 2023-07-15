@@ -32,7 +32,7 @@
 
 
 
-  ![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=footer"/>
 
