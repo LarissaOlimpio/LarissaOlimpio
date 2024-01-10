@@ -4,7 +4,7 @@
  🎓 I study systems analysis and development <br>
  🌱 Studying Next.Js and TypeScript <br>
  📚 Learning Spanish and improving English <br>
- 🎯 My hard skills: CSS3, HTML5, Javascript and React<br>
+ 🎯 My hard skills: TypeScript, Javascript, React, and  React Native<br>
  🚀 Alura's student
  <div style="display: inline_block"><br>
 
