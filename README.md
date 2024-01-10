@@ -1,40 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=header"/>
-
-### Hi, I'm Larissa Olimpio and my nickname is "Lari", FrontEnd Developer 💻👋
- 🎓 I study systems analysis and development <br>
- 🌱 Studying Next.Js and TypeScript <br>
- 📚 Learning Spanish and improving English <br>
- 🎯 My hard skills: TypeScript, Javascript, React, and  React Native<br>
- 🚀 Alura's student
- <div style="display: inline_block"><br>
-
-  
-  
-  <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
-  
-  
-</div>
-
-  ##
- 
- <h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/Larissa_Olim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samukk_a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/larissaolimpio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-santos-55515b240/" height="30" width="40" /></a>
-</p>
 
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffd800&height=120&section=header)
 
- <!-- ![Snake animation](https://github.com/LarissaOlimpio/LarissaOlimpio/blob/output/github-contribution-grid-snake.svg)-->
+## 👋 Olá, sou Larissa Olimpio!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4da1ba&height=120&section=footer"/>
+Sou uma desenvolvedora Front-end apaixonada, com uma sólida experiência na criação e implementação de aplicações inovadoras. Trabalhei extensivamente com tecnologias de ponta, incluindo GraphQL, React Native, React, TypeScript e Next.js. Além disso, integrei bibliotecas como Material-UI (MUI) e GlueStack, participando ativamente no ciclo completo de desenvolvimento, desde a concepção até a entrega final.
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens:** TypeScript, JavaScript
+- **Bibliotecas/Frameworks:** React, React Native
+- **Tecnologias Adicionais:** GraphQL, Next.js, Material-UI (MUI), GlueStack
+- **Controle de Versão:** Git, GitHub
+
+## 💼 Experiência Profissional
+
+Com uma experiência sólida, trabalhei em equipes ágeis, colaborando de forma eficiente e utilizando práticas de controle de versão com Git e GitHub. Participei ativamente no desenvolvimento completo de projetos, desde a concepção até a entrega, garantindo produtos de alta qualidade.
+
+## 📚 Aprendizado Constante
+
+Além da minha experiência profissional, estou dedicando tempo para aprimorar minhas habilidades em inglês e Java. Acredito firmemente na aprendizagem contínua e na busca constante por conhecimento para me manter atualizada de acordo com as últimas tendências do mercado.
+
+## 🌐 Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/larissaolimpio/)
+
+## 🤝 Colaboração
+
+Estou preparada para colaborar em projetos desafiadores, contribuindo para o sucesso contínuo da equipe. Vamos criar algo incrível juntos!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffd800&height=120&section=footer)
+
 
 
 
