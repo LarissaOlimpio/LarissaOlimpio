@@ -24,6 +24,7 @@ Além da minha experiência profissional, estou dedicando tempo para aprimorar m
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/larissaolimpio/)
+- [Instagran](https://www.instagram.com/dev_larissaolimpio?utm_source=qr&igsh=bzY1bGNqMDl1dTg5)
 
 ## 🤝 Colaboração
 
