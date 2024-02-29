@@ -8,7 +8,7 @@ Sou uma desenvolvedora Front-end apaixonada, com uma sólida experiência na cri
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens:** TypeScript, JavaScript
+- **Linguagens:** TypeScript, JavaScript e Java
 - **Bibliotecas/Frameworks:** React, React Native
 - **Tecnologias Adicionais:** GraphQL, Next.js, Material-UI (MUI), GlueStack
 - **Controle de Versão:** Git, GitHub
@@ -19,7 +19,7 @@ Com uma experiência sólida, trabalhei em equipes ágeis, colaborando de forma 
 
 ## 📚 Aprendizado Constante
 
-Além da minha experiência profissional, estou dedicando tempo para aprimorar minhas habilidades em inglês e Java. Acredito firmemente na aprendizagem contínua e na busca constante por conhecimento para me manter atualizada de acordo com as últimas tendências do mercado.
+Além da minha experiência profissional, estou dedicando tempo para aprimorar minhas habilidades em inglês e Java, além de fazer parte como membro voluntária do projeto commitê ONE, projeto social da alura em parceria com a oracle. Acredito firmemente na aprendizagem contínua e na busca constante por conhecimento para me manter atualizada de acordo com as últimas tendências do mercado.
 
 ## 🌐 Redes Sociais
 
