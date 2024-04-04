@@ -9,13 +9,13 @@ Sou uma desenvolvedora Front-end apaixonada, com uma sólida experiência na cri
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens:** TypeScript, JavaScript e Java
-- **Bibliotecas/Frameworks:** React, React Native
-- **Tecnologias Adicionais:** GraphQL, Next.js, Material-UI (MUI), GlueStack
+- **Bibliotecas/Frameworks:** React, React Native, Next.js e Spring Boot
+- **Tecnologias Adicionais:** GraphQL, Material-UI (MUI), GlueStack
 - **Controle de Versão:** Git, GitHub
 
 ## 💼 Experiência Profissional
 
-Com uma experiência sólida, trabalhei em equipes ágeis, colaborando de forma eficiente e utilizando práticas de controle de versão com Git e GitHub. Participei ativamente no desenvolvimento completo de projetos, desde a concepção até a entrega, garantindo produtos de alta qualidade.
+Com uma experiência sólida, trabalhei em equipes ágeis, colaborando de forma eficiente e utilizando práticas de controle de versão com Git e GitHub. Participei ativamente no desenvolvimento completo de projetos para imobiliárias e prefeituras desde a concepção até a entrega, garantindo produtos de alta qualidade.
 
 ## 📚 Aprendizado Constante
 
