@@ -1,36 +1,40 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ffd800&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00618A&height=120&section=header)
 
 ## 👋 Olá, sou Larissa Olimpio!
 
-Sou uma desenvolvedora Front-end apaixonada, com uma sólida experiência na criação e implementação de aplicações inovadoras. Trabalhei extensivamente com tecnologias de ponta, incluindo GraphQL, React Native, React, TypeScript e Next.js. Além disso, integrei bibliotecas como Material-UI (MUI) e GlueStack, participando ativamente no ciclo completo de desenvolvimento, desde a concepção até a entrega final.
+Sou desenvolvedora Back-End, atualmente utilizando Java com Spring Boot e MySQL para banco de dados, para deploy utilizo AWS com Docker. 
 
-## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens:** TypeScript, JavaScript e Java
-- **Bibliotecas/Frameworks:** React, React Native, Next.js e Spring Boot
-- **Tecnologias Adicionais:** GraphQL, Material-UI (MUI), GlueStack
-- **Controle de Versão:** Git, GitHub
+## 🛠 Tecnologias 
+
+- **Linguagens:**  Java, TypeScript, JavaScript
+- **Bibliotecas/Frameworks:** Spring Boot, React, React Native, Next.js 
+- **Controle de Versão:** Git
+- **Banco de Dados:** MySQL
 
 ## 💼 Experiência Profissional
 
-Com uma experiência sólida, trabalhei em equipes ágeis, colaborando de forma eficiente e utilizando práticas de controle de versão com Git e GitHub. Participei ativamente no desenvolvimento completo de projetos para imobiliárias e prefeituras desde a concepção até a entrega, garantindo produtos de alta qualidade.
+Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiência profissional com TypeScript, Next.js, React, React Native e GraphQL, bem como trabalho em equipe utilizando Git para versionamento de código e GitHub como plataforma de hospedagem. Durante este período, em contato com toda equipe de desenvolvedores, acabei me identificando muito com a área Back-End e resolvi me dedicar a ela. Além disso, tenho inglês intermediário, boa comunicação e gosto muito de compartilhar conhecimento. Tenho perfil no Instagram dedicado a isso e continuo em constante aprendizado, por meio de leituras, cursos, podcasts e participação na comunidade. Ademais, estou no último bimestre do curso de Análise e Desenvolvimento de Sistemas.
 
-## 📚 Aprendizado Constante
+## 🤝 Colaboração
 
-Além da minha experiência profissional, estou dedicando tempo para aprimorar minhas habilidades em inglês e Java, além de fazer parte como membro voluntária do projeto commitê ONE, projeto social da alura em parceria com a oracle. Acredito firmemente na aprendizagem contínua e na busca constante por conhecimento para me manter atualizada de acordo com as últimas tendências do mercado.
+Faço parte do comitê ONE, composto por ex-alunos do projeto One Next Education, uma iniciativa social da Alura em parceria com a Oracle. 
+
+## 📧 Contato
+ - lrsolimpio@gmail.com
 
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/larissaolimpio/)
 - [Instagran](https://www.instagram.com/dev_larissaolimpio?utm_source=qr&igsh=bzY1bGNqMDl1dTg5)
 
-## 🤝 Colaboração
 
-Estou preparada para colaborar em projetos desafiadores, contribuindo para o sucesso contínuo da equipe. Vamos criar algo incrível juntos!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffd800&height=120&section=footer)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00618A&height=120&section=footer)
 
 
 
