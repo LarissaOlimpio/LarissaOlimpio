@@ -4,7 +4,7 @@
 
 ## 👋 Olá, sou Larissa Olimpio!
 
-Sou desenvolvedora Back-End, atualmente utilizando Java com Spring Boot e MySQL para banco de dados, para deploy utilizo AWS com Docker. 
+Sou desenvolvedora Full Stack, formada em Análise e Desenvolvimento de Sistemas e apaixonada por código, jogos e música 
 
 
 ## 🛠 Tecnologias 
@@ -16,7 +16,7 @@ Sou desenvolvedora Back-End, atualmente utilizando Java com Spring Boot e MySQL 
 
 ## 💼 Experiência Profissional
 
-Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiência profissional com TypeScript, Next.js, React, React Native e GraphQL, bem como trabalho em equipe utilizando Git para versionamento de código e GitHub como plataforma de hospedagem. Durante este período, em contato com toda equipe de desenvolvedores, acabei me identificando muito com a área Back-End e resolvi me dedicar a ela. Além disso, tenho inglês intermediário, boa comunicação e gosto muito de compartilhar conhecimento. Tenho perfil no Instagram dedicado a isso e continuo em constante aprendizado, por meio de leituras, cursos, podcasts e participação na comunidade. Ademais, estou no último bimestre do curso de Análise e Desenvolvimento de Sistemas.
+Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiência profissional com TypeScript, Next.js, React, React Native e GraphQL, bem como trabalho em equipe utilizando Git para versionamento de código e GitHub como plataforma de hospedagem. Depois desse tempo, comecei a estudar também o universo do Back-End utilizando Java com Spring Boot e MySql, hoje em dia sou dev na Alura onde atuo com Java e JSP para WEB. Além disso, tenho inglês intermediário, boa comunicação e gosto muito de compartilhar conhecimento e continuo em constante aprendizado, por meio de leituras, cursos, podcasts e participação na comunidade. 
 
 ## 🤝 Colaboração
 
