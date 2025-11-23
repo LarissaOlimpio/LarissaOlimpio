@@ -28,7 +28,7 @@ Faço parte do comitê ONE, composto por ex-alunos do projeto One Next Education
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/larissaolimpio/)
-- [Instagran](https://www.instagram.com/dev_larissaolimpio?utm_source=qr&igsh=bzY1bGNqMDl1dTg5)
+- [Instagran](https://www.instagram.com/olim_larissa?igsh=bzY1bGNqMDl1dTg5)
 
 
 
