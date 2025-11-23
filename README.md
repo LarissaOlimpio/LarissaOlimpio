@@ -20,7 +20,7 @@ Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiênci
 
 ## 🤝 Colaboração
 
-Faço parte do comitê ONE, composto por ex-alunos do projeto One Next Education, uma iniciativa social da Alura em parceria com a Oracle. 
+Fiz parte do comitê ONE, composto por ex-alunos do projeto One Next Education, uma iniciativa social da Alura em parceria com a Oracle. 
 
 ## 📧 Contato
  - lrsolimpio@gmail.com
