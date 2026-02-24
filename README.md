@@ -16,7 +16,7 @@ Sou desenvolvedora Full Stack, formada em Análise e Desenvolvimento de Sistemas
 
 ## 💼 Experiência Profissional
 
-Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiência profissional com TypeScript, Next.js, React, React Native e GraphQL, bem como trabalho em equipe utilizando Git para versionamento de código e GitHub como plataforma de hospedagem. Depois desse tempo, comecei a estudar também o universo do Back-End utilizando Java com Spring Boot e MySql. Além disso, tenho inglês intermediário, boa comunicação e gosto muito de compartilhar conhecimento e continuo em constante aprendizado, por meio de leituras, cursos, podcasts e participação na comunidade. 
+Sou dev há mais de dois anos, comecei como Front-End, no qual tenho experiência profissional com TypeScript, Next.js, React, React Native e GraphQL, bem como trabalho em equipe utilizando Git para versionamento de código e GitHub como plataforma de hospedagem. Depois desse tempo, mergulhei também no universo do Back-End utilizando Java com Spring Boot e MySql. Além disso, tenho inglês intermediário, boa comunicação e gosto muito de compartilhar conhecimento e continuo em constante aprendizado, por meio de leituras, cursos, podcasts e participação na comunidade. 
 
 ## 🤝 Colaboração
 
@@ -28,7 +28,6 @@ Fiz parte do comitê ONE, composto por ex-alunos do projeto One Next Education, 
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/larissaolimpio/)
-- [Instagran](https://www.instagram.com/olim_larissa?igsh=bzY1bGNqMDl1dTg5)
 
 
 
