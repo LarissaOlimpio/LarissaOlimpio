@@ -14,7 +14,7 @@ Perfil analítico e colaborativo, focado em transformar dados em decisões de ne
 
 ## 🎯 Sobre mim
 
-Sou desenvolvedora com background sólido em **Java e Spring Boot**, que expandiu sua visão técnica para **Análise de Dados** (SQL, Python, Power BI) e, atualmente, está se especializando em **Segurança da Informação**.
+Sou desenvolvedora FullStack com background sólido em **Java e Spring Boot**, que expandiu sua visão técnica para **Análise de Dados** (SQL, Python, Power BI) e, atualmente, está se especializando em **Segurança da Informação**.
 
 Recentemente liderei o time responsável pelo projeto final do Bootcamp de Análise de Dados (Soulcode Academy, em parceria com a Accenture), focado em eficiência comercial e margem operacional no varejo digital — com pipeline completo de BI: modelagem em star schema, análises SQL e dashboard executivo em Power BI.
 
