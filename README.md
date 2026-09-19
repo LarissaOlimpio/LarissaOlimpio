@@ -30,17 +30,21 @@ Gosto de aprender continuamente e compartilhar conhecimento — atuei também co
 `SQL` `Python` `Power BI` `Excel` `Google BigQuery`
 
 **Desenvolvimento**
-`Java` `Spring Boot` `React` `Next.js` `TypeScript` `JavaScript` `React Native`
+`Java` `Spring Boot` `React` `Next.js` `TypeScript` `JavaScript` `bootstrap` `C#` `.NET` `highcharts` `Datatable`
 
 **Banco de Dados**
-`MySQL`
+`MySQL` `Oracle` `PostgreSQL`
 
 **Ferramentas**
-`Git` `GitHub`
+`Git` `GitHub` `Jenkis` `DataDog`
 
 ---
 
 ## 💼 Experiência Profissional
+**Desenvolvedora FullStack C# e JavaScript — Embraer** · set/2026 – dias atuais
+- Desenvolvimento e manutenção de sistemas com Java, Spring Boot, JSP e MySQL, participando de todo o ciclo de vida: análise, testes unitários e deploy.
+- Automação de publicação e atualização de trilhas, eliminando intervenção manual da equipe de Produto.
+- Desenvolvimento de APIs REST com validação de entrada, tratamento de dados sensíveis e refatoração de código.
 
 **Desenvolvedora Back-end Java — Alura** · jul/2024 – jul/2025
 - Desenvolvimento e manutenção de sistemas com Java, Spring Boot, JSP e MySQL, participando de todo o ciclo de vida: análise, testes unitários e deploy.
