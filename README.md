@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/perfil.png" width="100%" alt="Ilustração da Larissa programando em frente ao notebook"/>
+    <td width="35%"align="center" valign="middle">
+      <img src="imagem_corrigida.jpg" width="100%"  alt="Ilustração da Larissa programando em frente ao notebook"/>
     </td>
     <td width="65%" valign="middle">
 
